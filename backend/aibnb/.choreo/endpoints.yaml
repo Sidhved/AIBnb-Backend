@@ -1,7 +1,7 @@
 version: 0.1
 
 endpoints:
-  - name: "AIBNB_API"
+  - name: "AIBNB API"
   port: 8000
   type: REST
   networkVisibility: Public
